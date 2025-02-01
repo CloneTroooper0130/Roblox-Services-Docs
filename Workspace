@@ -1,0 +1,4 @@
+Workspace is the A-Z of roblox development. It's where most visual components of the game are usually stored. Whatever you put into the workspace will appear on your place draft.
+Either under a folder (we'll get to what a folder is in the next repository regarding classes), a model (same goes for models) or any other instance.
+The server's camera which can be manually manipulated, the game's terrain are a static that's always stored in the workspace and almost impossible to be removed. 
+Fun fact: Luau has a built-in variable called "workspace" which directly refers to the workspace without having to type "game.Workspace". That's of how much significance it is (:
